@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "Excuse me, Willennials",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Everybody appears to have forgotten what era we are living in.",
 	"content_scripts": 
 	[
 		{
